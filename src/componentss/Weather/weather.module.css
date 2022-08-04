@@ -1,0 +1,42 @@
+.input_cont {
+  border: none;
+  height: 58px;
+  width: 100%;
+  font-size: large;
+  padding-right: 60px;
+  outline: none;
+}
+
+.input_container {
+  display: flex;
+  position: relative;
+  border: 1px solid rgb(213, 197, 197);
+  height: 60px;
+  margin: 10px;
+  top: 10px;
+  border-radius: 10px;
+  padding-left: 50px;
+  padding-right: 60px;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  /* box-shadow: 0 0 7px 5px #f5f5f5; */
+}
+
+.location_png {
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+  margin-left: -30px;
+  position: absolute;
+}
+
+.search_png {
+  width: 20px;
+  height: 20px;
+  margin-top: 20px;
+
+  right: 20px;
+  position: absolute;
+}

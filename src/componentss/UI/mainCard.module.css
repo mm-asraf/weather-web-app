@@ -1,0 +1,9 @@
+.main_card {
+  width: 50%;
+  height: 100vh;
+  position: relative;
+  top: 20px;
+  margin: auto;
+  /* background-color: #f6f8f8; */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
