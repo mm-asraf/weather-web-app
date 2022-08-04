@@ -40,3 +40,22 @@
   right: 20px;
   position: absolute;
 }
+
+.autocomplete {
+  /* width: 50vw; */
+  position: relative;
+  margin: 10px;
+  background: #ffff;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+.autocompleteItems {
+  border-bottom: 1px solid #e6e6e6;
+  padding: 10px 5px;
+  cursor: pointer;
+}
+
+.autocompleteItems:hover {
+  background: rgb(228, 226, 226);
+}
