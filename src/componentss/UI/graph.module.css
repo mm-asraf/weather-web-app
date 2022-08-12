@@ -1,6 +1,15 @@
 .graph_container {
   position: relative;
-  height: 730px;
+  height: 530px;
+  /* border: 2px solid brown; */
+  box-shadow: 0 2px 9px rgba(0, 0, 0, 0.26);
+  margin: 10px;
+  top: 10px;
+}
+
+.graph_container2 {
+  position: relative;
+  height: 330px;
   /* border: 2px solid brown; */
   box-shadow: 0 2px 9px rgba(0, 0, 0, 0.26);
   margin: 10px;
