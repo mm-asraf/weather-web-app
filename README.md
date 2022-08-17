@@ -1,4 +1,4 @@
-# Weather-forecase App
+# Weather-forecast App
 
 [Visit Now](https://weather-app-mm-asraf.vercel.app/) 🚀
 
